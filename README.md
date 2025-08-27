@@ -1,15 +1,14 @@
 # 👋 Hi, I’m Charles T (Tommy813-lab)
 
-💼 **Aspiring Cloud & FinOps Specialist | Level 10 Portfolio**  
-🌩️ Skills: AWS | FinOps / Financial Operations | Kubernetes Cost Optimization | Terraform | Python | PowerShell | Serverless | Cloud Governance  
+💼 **Level 10 Cloud & FinOps Specialist | Kubernetes Cost Optimization**  
+🌩️ Skills: AWS | FinOps / Financial Operations | K8s Cost Optimization | Terraform | Python | PowerShell | Serverless | Cloud Governance  
 📊 Passion: Automating cloud workloads, optimizing costs, and building scalable, efficient infrastructure  
-🌍 Based in Florida | Open to remote opportunities  
+🌍 Based in Florida | Remote-ready  
 
 ---
 
 ## ⚡ About Me
-I’m a self-taught cloud engineer focused on **FinOps, cloud cost optimization, and automation**. I build **real-world projects** to demonstrate how to **save money, enforce governance, and improve efficiency** in cloud environments.  
-I love combining **hands-on scripting, IaC, and cloud architecture** with a strong understanding of financial operations to **create sustainable and cost-efficient solutions**.  
+I’m a self-taught cloud engineer focused on **FinOps, cloud cost optimization, and automation**. I build **real-world projects** that demonstrate how to **save money, enforce governance, and improve efficiency** in cloud environments.  
 
 ---
 
@@ -17,37 +16,44 @@ I love combining **hands-on scripting, IaC, and cloud architecture** with a stro
 
 ### **FinOps & Cost Optimization**
 - **[AWS FinOps Cost Explorer Automation](https://github.com/Tommy813-lab/FinOps-Cost-Explorer)**  
-  Automated scripts to pull AWS cost data, generate reports, and send alerts for budget overruns.
+  Automated scripts to pull AWS cost data, generate reports, and send alerts for budget overruns.  
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 - **[Cloud Cost Governance Toolkit](https://github.com/Tommy813-lab/Cloud-Cost-Governance)**  
-  PowerShell and Python scripts enforcing tagging compliance, auditing resources, and reducing cost leakage.
+  Enforces tagging compliance, audits resources, and reduces cost leakage.  
+  ![PowerShell](https://img.shields.io/badge/PowerShell-0078D7?style=for-the-badge&logo=powershell&logoColor=white)
 
 - **[K8s Cost Analyzer](#)**  
-  Monitors Kubernetes clusters for unused pods and inefficient resource allocation to reduce operational costs.
+  Monitors Kubernetes clusters for unused pods and inefficient resource allocation.  
+  ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ### **Serverless & Cloud Projects**
 - **[Serverless Helpdesk Simulation - AWS](https://github.com/Tommy813-lab/Serverless-Helpdesk-Sim-AWS)**  
-  Cost-efficient serverless application built with Lambda, DynamoDB, and API Gateway. Includes tagging, monitoring, and budget controls.
+  Cost-efficient serverless application using Lambda, DynamoDB, and API Gateway.  
+  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 - **[Multi-Cloud Price Benchmarking Tool](#)** *(in progress)*  
-  Compares AWS, Azure, and GCP pricing for compute and storage resources to recommend cost-efficient strategies.
+  Compares AWS, Azure, and GCP pricing for compute/storage resources.  
+  ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 
 ---
 
 ## 🛠️ Skills Overview
-
-**Cloud & FinOps:** AWS Cloud, Financial Operations, Kubernetes Cost Optimization, Cloud Governance  
-**Automation & Scripting:** Python, PowerShell, Terraform (IaC)  
-**Architecture:** Serverless (Lambda, DynamoDB, API Gateway), CI/CD Basics, Monitoring & Logging  
-**Financial Analysis:** Budgeting, Forecasting, Cost Allocation  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![FinOps](https://img.shields.io/badge/FinOps-Financial%20Operations-blue?style=for-the-badge)
+![Kubernetes](https://img.shields.io/badge/K8s-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-0078D7?style=for-the-badge&logo=powershell&logoColor=white)
+![Serverless](https://img.shields.io/badge/Serverless-FF4088?style=for-the-badge)
+![Cloud Governance](https://img.shields.io/badge/Cloud%20Governance-00BFFF?style=for-the-badge)
 
 ---
 
-## 📈 What I’m Learning
-- Advanced **FinOps strategies** for multi-cloud deployments  
-- **Kubernetes optimization** for cost and performance  
-- Infrastructure-as-Code automation with **Terraform**  
-- Real-world **cloud governance** and resource tagging policies  
+## 📈 GitHub Stats
+![Charles's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tommy813-lab&show_icons=true&theme=radical&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tommy813-lab&layout=compact&theme=radical)
 
 ---
 
@@ -58,9 +64,4 @@ I love combining **hands-on scripting, IaC, and cloud architecture** with a stro
 
 ---
 
-## 📊 GitHub Stats
-![Charles's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tommy813-lab&show_icons=true&theme=radical)
-
----
-
-💡 *I’m actively building my portfolio to demonstrate real-world cloud cost optimization and automation skills. Open to remote Cloud / FinOps / Kubernetes optimization opportunities.*
+💡 *I’m actively building my portfolio to demonstrate real-world cloud cost optimization, FinOps, and Kubernetes efficiency skills. Open to remote opportunities in Cloud / FinOps / Kubernetes optimization.*
