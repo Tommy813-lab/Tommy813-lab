@@ -17,9 +17,6 @@ Self-taught through hands-on projects, AWS documentation, and breaking things re
 
 ## Featured Projects
 
-**🏗️ [ec2-webapp-with-s3-backend](https://github.com/Tommy813-lab/ec2-webapp-with-s3-backend)**  
-Complete web application infrastructure on AWS using Terraform. Automated provisioning, scalable design, S3 backend integration. Production-ready, not toy code.
-
 **🌐 [s3-cloudfront-secure-static-site](https://github.com/Tommy813-lab/s3-cloudfront-secure-static-site)**  
 Enterprise-level static site hosting with global CDN, SSL/TLS encryption, and optimized S3 storage. Fast, secure, globally distributed—no servers to babysit.
 
