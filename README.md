@@ -64,8 +64,8 @@ To build **production-ready cloud solutions** that combine automation, security,
 
 ## 📫 Connect
 
-- **GitHub:** [github.com/Tommy813-lab](https://github.com/Tommy813-lab)  
-- **Portfolio:** [Tommy813-lab.github.io](https://Tommy813-lab.github.io)  
+- **GitHub:** [github.com/charles-bucher](https://github.com/Tommy813-lab)  
+- **Portfolio:** [charles-bucher.io](https://Tommy813-lab.github.io)  
 - **LinkedIn:** [in/charles-bucher-26598728b](https://linkedin.com/in/charles-bucher-26598728b)  
 
 ---
