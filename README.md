@@ -67,8 +67,11 @@ To build **production-ready cloud solutions** that combine automation, security,
 ### 💬 Let's Connect
 - 📧 Email: Quietopscb@gmail.com
 - 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/charles-bucher-26598728b)
-- 📄 Resume: [Download PDF](link-to-resume)
 
+
+[Charles_Bucher_Cloud_Infrastructure_Resume.docx](https://github.com/user-attachments/files/22752182/Charles_Bucher_Cloud_Infrastructure_Resume.docx)
+
+  
 **Open to:** Remote Cloud/DevOps roles | Contract-to-hire | Freelance projects
 
 
