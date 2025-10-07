@@ -54,6 +54,9 @@ Personal portfolio showcasing projects and professional accomplishments.
 | Automation | Shell Scripting, PowerShell, CI/CD workflows |
 | Web Hosting | Static site deployment, HTTPS, CDN |
 
+### 🎓 Certifications & Training
+- AWS Solutions Architect Associate (In Progress - Exam Jan 2026)
+- CompTIA Security+ (Planned)
 ---
 
 ## 🎯 Goal
@@ -67,6 +70,11 @@ To build **production-ready cloud solutions** that combine automation, security,
 - **GitHub:** [github.com/charles-bucher](https://github.com/Tommy813-lab)  
 - **Portfolio:** [charles-bucher.io](https://Tommy813-lab.github.io)  
 - **LinkedIn:** [in/charles-bucher-26598728b](https://linkedin.com/in/charles-bucher-26598728b)  
+
+
+### 📊 GitHub Activity
+![Charles's GitHub stats](https://github-readme-stats.vercel.app/api?username=charles-bucher&show_icons=true&theme=dark)
+
 
 ---
 
