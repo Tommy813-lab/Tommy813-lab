@@ -64,12 +64,13 @@ Personal portfolio showcasing projects and professional accomplishments.
 To build **production-ready cloud solutions** that combine automation, security, scalability, and cost efficiency — helping teams detect issues before they become incidents and ensuring reliable infrastructure delivery.  
 
 ---
+### 💬 Let's Connect
+- 📧 Email: Quietopscb@gmail.com
+- 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/charles-bucher-26598728b)
+- 📄 Resume: [Download PDF](link-to-resume)
 
-## 📫 Connect
+**Open to:** Remote Cloud/DevOps roles | Contract-to-hire | Freelance projects
 
-- **GitHub:** [github.com/charles-bucher](https://github.com/Tommy813-lab)  
-- **Portfolio:** [charles-bucher.io](https://Tommy813-lab.github.io)  
-- **LinkedIn:** [in/charles-bucher-26598728b](https://linkedin.com/in/charles-bucher-26598728b)  
 
 
 ### 📊 GitHub Activity
