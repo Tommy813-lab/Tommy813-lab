@@ -60,10 +60,11 @@ VSCode
 ### [Multi-Tier Network Simulation](https://github.com/charles-bucher/multi-tier-network-sim)  
 A hands-on simulation of a secure multi-tier cloud network architecture, complete with diagrams, threat modeling, and automation scripts.
 
-### [GitHub Pages: http://charles-bucher.github.io/)  
+### [Portfolio}: http://charles-bucher.github.io/)  
 A personal portfolio showcasing my projects, skills, and professional journey.
 
-### https://github.com/charles-bucher/Proactive-monitoring-with-cloudwatch-sns
+
+### {Proactive-monitoring-with-cloudwatch-sns https://github.com/charles-bucher/Proactive-monitoring-with-cloudwatch-sns
 Proactive is a structured, hands-on project showcasing advanced cloud infrastructure and automation techniques. It demonstrates the use of AWS services, Terraform, and CI/CD pipelines to build secure, scalable, and maintainable environments. This repo serves as both a learning resource and a portfolio piece to highlight practical skills in cloud architecture, infrastructure-as-code, and automation workflows.
 ---
 
