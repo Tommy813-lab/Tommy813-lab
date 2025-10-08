@@ -11,6 +11,7 @@ I’m a self-taught cloud engineer with a growing GitHub portfolio focused on **
 
 My mission: to build projects that bridge **hands-on learning** with **real-world applications** while continuously improving my skills in AWS, Terraform, Python, and network security.
 
+
 ---
 
 ## 💼 Skills
@@ -51,6 +52,7 @@ Git
 Linux
 
 VSCode
+
 
 
 ## 📂 Featured Projects
