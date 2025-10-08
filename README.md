@@ -29,7 +29,7 @@ My mission: to build projects that bridge **hands-on learning** with **real-worl
 ### [Multi-Tier Network Simulation](https://github.com/charles-bucher/multi-tier-network-sim)  
 A hands-on simulation of a secure multi-tier cloud network architecture, complete with diagrams, threat modeling, and automation scripts.
 
-### [GitHub Pages Portfolio](https://charles-bucher.github.io/)  
+### [GitHub Pages: http://charles-bucher.github.io/)  
 A personal portfolio showcasing my projects, skills, and professional journey.
 
 ### [CloudWatch Agent Setup](https://github.com/charles-bucher/cloudwatch-agent-setup)  
