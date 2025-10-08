@@ -15,14 +15,43 @@ My mission: to build projects that bridge **hands-on learning** with **real-worl
 
 ## 💼 Skills
 
-| Cloud Infrastructure | Programming & Automation | Tools & Platforms |
-|-----------------------|---------------------------|---------------------|
-| AWS (EC2, S3, VPC, IAM) | Python | GitHub |
-| Terraform | Bash/Shell scripting | Docker |
-| Cloud Security | Linux | Git |
-| Multi-Tier Architecture | CI/CD Pipelines | VSCode |
 
----
+---Cloud Infrastructure
+
+AWS EC2
+
+AWS S3
+
+AWS VPC
+
+AWS IAM
+
+Terraform
+
+Multi-Tier Architecture
+
+Cloud Security
+
+Programming & Automation
+
+Python
+
+Bash / Shell Scripting
+
+CI/CD Pipelines
+
+Tools & Platforms
+
+Docker
+
+GitHub
+
+Git
+
+Linux
+
+VSCode
+
 
 ## 📂 Featured Projects
 
@@ -32,9 +61,8 @@ A hands-on simulation of a secure multi-tier cloud network architecture, complet
 ### [GitHub Pages: http://charles-bucher.github.io/)  
 A personal portfolio showcasing my projects, skills, and professional journey.
 
-### [CloudWatch Agent Setup](https://github.com/charles-bucher/cloudwatch-agent-setup)  
-A streamlined setup for AWS CloudWatch Agent, designed for efficient monitoring and logging in cloud environments.
-
+### https://github.com/charles-bucher/Proactive-monitoring-with-cloudwatch-sns
+Proactive is a structured, hands-on project showcasing advanced cloud infrastructure and automation techniques. It demonstrates the use of AWS services, Terraform, and CI/CD pipelines to build secure, scalable, and maintainable environments. This repo serves as both a learning resource and a portfolio piece to highlight practical skills in cloud architecture, infrastructure-as-code, and automation workflows.
 ---
 
 ## 🌟 GitHub Stats
