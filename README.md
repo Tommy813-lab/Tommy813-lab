@@ -60,7 +60,7 @@ VSCode
 ### [Multi-Tier Network Simulation](https://github.com/charles-bucher/multi-tier-network-sim)  
 A hands-on simulation of a secure multi-tier cloud network architecture, complete with diagrams, threat modeling, and automation scripts.
 
-### [Portfolio}: http://charles-bucher.github.io/)  
+### [Portfolio: charles-bucher.github.io/)  
 A personal portfolio showcasing my projects, skills, and professional journey.
 
 
