@@ -37,7 +37,7 @@ Enterprise-ready static website deployment with AWS S3 + CloudFront for secure, 
 Simulates AWS GuardDuty findings and triggers automated responses using EventBridge, SNS, and Lambda.  
 **Skills:** GuardDuty, EventBridge, Lambda, Terraform, Security Automation  
 
-### 5. [Portfolio Website](https://Tommy813-lab.github.io)  
+### 5. [Portfolio Website](https://https://github.com/charles-bucher/charles-bucher.github.io)  
 Personal portfolio showcasing projects and professional accomplishments.  
 **Skills:** HTML, CSS, GitHub Pages  
 
