@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Charles Bucher
 
-🔹 Cloud Infrastructure Enthusiast | Security & Automation Advocate | GitHub Creator  
+🔹 Cloud Infrastructure Enthusiast | Security & Automation Advocate 
 🔹 Passionate about building scalable, secure cloud systems and innovative projects.  
 
 ---
