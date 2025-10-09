@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 
-I’m a self-taught cloud engineer with a growing GitHub portfolio focused on **cloud infrastructure, security, automation, and multi-tier network simulations**. I specialize in designing efficient systems, automating workflows, and creating clear, recruiter-friendly documentation.  
+I’m a self-taught cloud engineer with a growing portfolio focused on **cloud infrastructure, security, automation, and multi-tier network simulations**. I specialize in designing efficient systems, automating workflows, and creating clear, recruiter-friendly documentation.  
 
 My mission: to build projects that bridge **hands-on learning** with **real-world applications** while continuously improving my skills in AWS, Terraform, Python, and network security.
 
