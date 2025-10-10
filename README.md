@@ -57,7 +57,7 @@ VSCode
 
 ## 📂 Featured Projects
 
-### https://github.com/charles-bucher/aws-multi-tier-vpc-architecture
+### aws-multi-tier-vpc-architecture
 A hands-on simulation of a secure multi-tier cloud network architecture, complete with diagrams, threat modeling, and automation scripts.
 
 
