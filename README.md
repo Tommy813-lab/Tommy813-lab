@@ -12,47 +12,33 @@ I’m a self-taught cloud engineer with a growing portfolio focused on **cloud i
 My mission: to build projects that bridge **hands-on learning** with **real-world applications** while continuously improving my skills in AWS, Terraform, Python, and network security.
 
 
+
 ---
+🧠 Skills & Cloud Stack
 
-## 💼 Skills
+Cloud Infrastructure:
+AWS VPC architecture (public/private subnets, NAT/IGW routing), multi-AZ design, route tables, load balancing, DNS management, and fine-grained traffic control.
 
+Infrastructure as Code (IaC):
+Terraform modular design, variable and output structuring, remote state management, reusable IaC templates, and versioned deployments.
 
----Cloud Infrastructure
+Security & Compliance:
+Threat modeling, network isolation, IAM least-privilege enforcement, automated firewall verification, and environment hardening.
 
-AWS EC2
+Automation & Scripting:
+Bash scripting, AWS CLI workflows, parameterized deployments, and full lifecycle automation for AWS resources.
 
-AWS S3
+Monitoring & Observability:
+CloudWatch metrics, logging, alerting, and health checks for multi-tier environments.
 
-AWS VPC
+Documentation & Architecture Visualization:
+Network flow diagrams, architecture blueprints, and threat model documentation.
 
-AWS IAM
+Version Control & Collaboration:
+Git & GitHub workflows, structured commits, branch management, and infrastructure version tracking.
 
-Terraform
-
-Multi-Tier Architecture
-
-Cloud Security
-
-Programming & Automation
-
-Python
-
-Bash / Shell Scripting
-
-CI/CD Pipelines
-
-Tools & Platforms
-
-Docker
-
-GitHub
-
-Git
-
-Linux
-
-VSCode
-
+Core Cloud Concepts:
+3-tier architecture (web/app/db), ingress/egress control, subnet isolation, and fault-tolerant network design.
 
 
 ## 📂 Featured Projects
