@@ -1,5 +1,10 @@
 # 👋 Hi, I'm Charles Bucher
 
+[![AWS](https://img.shields.io/badge/AWS-Cloud_Infrastructure-FF9900?style=for-the-badge&logo=amazon-aws)](https://aws.amazon.com)
+[![Terraform](https://img.shields.io/badge/Terraform-IaC-7B42BC?style=for-the-badge&logo=terraform)](https://terraform.io)
+[![Python](https://img.shields.io/badge/Python-Automation-3776AB?style=for-the-badge&logo=python)](https://python.org)
+
+
 🔹 Cloud Infrastructure Enthusiast | Security & Automation Advocate 
 🔹 Passionate about building scalable, secure cloud systems and innovative projects.  
 
@@ -75,3 +80,20 @@ Proactive is a structured, hands-on project showcasing advanced cloud infrastruc
 - Creating a GitHub-based learning repository for cloud engineers  
 
 ---
+
+
+## 📄 License
+
+MIT License - Free to use for learning and reference.
+
+See [LICENSE](LICENSE) for details.
+## 🛠️ Technical Skills
+
+**Cloud Platforms:** AWS (S3, EC2, CloudFront, CloudWatch, GuardDuty, VPC, IAM, SNS, Route 53, ACM)  
+**Infrastructure as Code:** Terraform (modules, state management, multi-environment deployments)  
+**Scripting & Automation:** Python, Bash, PowerShell  
+**Networking:** VPC design, subnets, security groups, routing tables, NAT gateways, CDN configuration  
+**Security:** IAM policies, encryption (TLS/KMS), threat detection, security group design, compliance  
+**Monitoring & DevOps:** CloudWatch metrics/alarms, SNS alerting, log analysis, CI/CD with GitHub Actions  
+**Version Control:** Git, GitHub, documentation best practices  
+
