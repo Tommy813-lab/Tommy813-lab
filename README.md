@@ -65,7 +65,7 @@ Proactive is a structured, hands-on project showcasing advanced cloud infrastruc
 
 - 🌐 Portfolio: [charles-bucher.github.io](https://charles-bucher.github.io/)  
 - 🔗 LinkedIn: [linkedin.com/in/charles-bucher-26598728b](https://www.linkedin.com/in/charles-bucher-26598728b)  
-- 📧 Email: quietopscb@gmail.com  
+- 📧 Email: [Available on LinkedIn]  
 
 ---
 
