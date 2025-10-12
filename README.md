@@ -1,99 +1,73 @@
-# 👋 Hi, I'm Charles Bucher
+👋 Hi, I'm Charles Bucher
+Cloud Engineer | AWS | Terraform | Python | Security & Automation
 
-[![AWS](https://img.shields.io/badge/AWS-Cloud_Infrastructure-FF9900?style=for-the-badge&logo=amazon-aws)](https://aws.amazon.com)
-[![Terraform](https://img.shields.io/badge/Terraform-IaC-7B42BC?style=for-the-badge&logo=terraform)](https://terraform.io)
-[![Python](https://img.shields.io/badge/Python-Automation-3776AB?style=for-the-badge&logo=python)](https://python.org)
+🚀 About Me
+I’m a self-taught cloud engineer focused on designing, securing, and automating cloud infrastructure using AWS and Terraform. My work centers on building real-world, production-grade environments that reflect how modern enterprises operate — scalable, auditable, and secure by design.
 
+I specialize in cloud networking, automation workflows, and proactive monitoring systems. Every project in this portfolio represents a hands-on implementation of core AWS services with an emphasis on IaC, security, and reliability engineering.
 
-🔹 Cloud Infrastructure Enthusiast | Security & Automation Advocate 
-🔹 Passionate about building scalable, secure cloud systems and innovative projects.  
-
----
-
-## 🚀 About Me
-
-I’m a self-taught cloud engineer with a growing portfolio focused on **cloud infrastructure, security, automation, and multi-tier network simulations**. I specialize in designing efficient systems, automating workflows, and creating clear, recruiter-friendly documentation.  
-
-My mission: to build projects that bridge **hands-on learning** with **real-world applications** while continuously improving my skills in AWS, Terraform, Python, and network security.
-
-
-
----
-🧠 Skills & Cloud Stack
-
-Cloud Infrastructure:
-AWS VPC architecture (public/private subnets, NAT/IGW routing), multi-AZ design, route tables, load balancing, DNS management, and fine-grained traffic control.
+🧠 Core Skills & Cloud Stack
+Cloud Architecture:
+Design and deployment of AWS multi-tier VPC environments with public/private subnet segmentation, NAT/IGW routing, load balancers, DNS, and high-availability configuration across multiple AZs.
 
 Infrastructure as Code (IaC):
-Terraform modular design, variable and output structuring, remote state management, reusable IaC templates, and versioned deployments.
+Terraform module development, state management, reusable IaC templates, variable structuring, and controlled rollouts via GitHub Actions and remote state backends.
 
-Security & Compliance:
-Threat modeling, network isolation, IAM least-privilege enforcement, automated firewall verification, and environment hardening.
+Security Engineering:
+IAM least-privilege policies, encryption (KMS/TLS), GuardDuty threat simulation, automated firewall and security group verification, and compliance-aligned environment hardening.
 
 Automation & Scripting:
-Bash scripting, AWS CLI workflows, parameterized deployments, and full lifecycle automation for AWS resources.
+AWS CLI automation, Bash scripting, parameterized deployments, and Python-based infrastructure validation.
 
 Monitoring & Observability:
-CloudWatch metrics, logging, alerting, and health checks for multi-tier environments.
+CloudWatch dashboards, metric-driven alerts, SNS notifications, and log aggregation for proactive fault detection and response.
 
 Documentation & Architecture Visualization:
-Network flow diagrams, architecture blueprints, and threat model documentation.
+Architecture diagrams, network topology blueprints, and end-to-end documentation for repeatable deployments.
 
-Version Control & Collaboration:
-Git & GitHub workflows, structured commits, branch management, and infrastructure version tracking.
+📂 Featured Projects
+🔸 AWS Multi-Tier VPC Architecture
+Complete Terraform simulation of a production-style 3-tier architecture with web, app, and database layers. Includes network isolation, firewall auditing, and monitoring pipelines.
 
-Core Cloud Concepts:
-3-tier architecture (web/app/db), ingress/egress control, subnet isolation, and fault-tolerant network design.
+🔸 Proactive Monitoring with CloudWatch & SNS
+Hands-on AWS monitoring lab showcasing proactive alerting using CloudWatch metrics and SNS. Features automation scripts, incident triggers, and scalable logging design.
+
+🔸 S3 + CloudFront Secure Static Site
+Enterprise-ready static website infrastructure using Amazon S3, CloudFront, and ACM for global content delivery, TLS security, and cost-optimized scalability.
+
+🔸 GuardDuty Threat Simulation & Response
+Terraform-driven lab that deploys GuardDuty, simulates AWS threat scenarios, and triggers automated remediation workflows.
+
+🔸 Portfolio Site
+Custom portfolio hosted on GitHub Pages highlighting hands-on cloud projects, automation design, and continuous learning in AWS and security.
+
+🛠️ Technical Toolbox
+Category	Tools & Technologies
+Cloud Platforms	AWS (EC2, S3, CloudFront, CloudWatch, VPC, IAM, SNS, Route 53, ACM, GuardDuty)
+Infrastructure as Code	Terraform (modules, state mgmt, multi-env deployments)
+Scripting	Python, Bash, PowerShell
+Networking	VPC design, subnet architecture, routing, NAT gateways, CDN optimization
+Security	IAM roles/policies, KMS, TLS, threat modeling, compliance automation
+Monitoring & DevOps	CloudWatch, SNS, log analysis, CI/CD with GitHub Actions
+Version Control	Git, GitHub, documentation and branch workflows
+📊 GitHub Activity
+Over 230+ contributions in the last year — focused on Terraform automation, AWS security simulation, and observability engineering.
+
+📫 Connect
+🌐 Portfolio: charles-bucher.github.io
+🔗 LinkedIn: linkedin.com/in/charles-bucher-26598728b
+📧 Email: Available on LinkedIn
+
+🧱 Current Focus
+Building advanced cloud security automation
+
+Expanding multi-tier simulation labs
+
+Developing GitHub-based learning repos for new engineers
+
+📄 License
+MIT License — Free to use for educational and reference purposes.
 
 
-## 📂 Featured Projects
-
-### https://github.com/charles-bucher/aws-multi-tier-vpc-architecture
-A hands-on simulation of a secure multi-tier cloud network architecture, complete with diagrams, threat modeling, and automation scripts.
-
-
-### {https://github.com/charles-bucher/charles-bucher.github.io}
-A personal portfolio showcasing my projects, skills, and professional journey.
-
-
-### {Proactive-monitoring-with-cloudwatch-sns https://github.com/charles-bucher/Proactive-monitoring-with-cloudwatch-sns
-Proactive is a structured, hands-on project showcasing advanced cloud infrastructure and automation techniques. It demonstrates the use of AWS services, Terraform, and CI/CD pipelines to build secure, scalable, and maintainable environments. This repo serves as both a learning resource and a portfolio piece to highlight practical skills in cloud architecture, infrastructure-as-code, and automation workflows.
----
-
-## 🌟 GitHub Stats
-
-![Charles's GitHub Stats](https://github-readme-stats.vercel.app/api?username=charles-bucher&show_icons=true&theme=radical&count_private=true)
-
----
-
-## 📫 Connect With Me
-
-- 🌐 Portfolio: [charles-bucher.github.io](https://charles-bucher.github.io/)  
-- 🔗 LinkedIn: [linkedin.com/in/charles-bucher-26598728b](https://www.linkedin.com/in/charles-bucher-26598728b)  
-- 📧 Email: [Available on LinkedIn]  
-
----
-
-## 🛠 What I’m Working On
-- Building advanced cloud security automation scripts  
-- Expanding my multi-tier network simulations  
-- Creating a GitHub-based learning repository for cloud engineers  
-
----
-
-
-## 📄 License
-
-MIT License - Free to use for learning and reference.
-
-See [LICENSE](LICENSE) for details.
-## 🛠️ Technical Skills
-
-**Cloud Platforms:** AWS (S3, EC2, CloudFront, CloudWatch, GuardDuty, VPC, IAM, SNS, Route 53, ACM)  
-**Infrastructure as Code:** Terraform (modules, state management, multi-environment deployments)  
-**Scripting & Automation:** Python, Bash, PowerShell  
-**Networking:** VPC design, subnets, security groups, routing tables, NAT gateways, CDN configuration  
-**Security:** IAM policies, encryption (TLS/KMS), threat detection, security group design, compliance  
-**Monitoring & DevOps:** CloudWatch metrics/alarms, SNS alerting, log analysis, CI/CD with GitHub Actions  
-**Version Control:** Git, GitHub, documentation best practices  
-
+No file chosenNo file chosen
+ChatGPT can make m
