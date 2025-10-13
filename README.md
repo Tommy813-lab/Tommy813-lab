@@ -37,7 +37,7 @@ Hands-on AWS monitoring lab showcasing proactive alerting using CloudWatch metri
 🔸 S3 + CloudFront Secure Static Site
 Enterprise-ready static website infrastructure using Amazon S3, CloudFront, and ACM for global content delivery, TLS security, and cost-optimized scalability.
 
-🔸 GuardDuty Threat Simulation & Response
+🔸 https://github.com/charles-bucher/guardduty-threat-simulation-response
 Terraform-driven lab that deploys GuardDuty, simulates AWS threat scenarios, and triggers automated remediation workflows.
 
 🔸 Portfolio Site
