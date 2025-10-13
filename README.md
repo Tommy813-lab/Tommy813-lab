@@ -1,71 +1,255 @@
-👋 Hi, I'm Charles Bucher
-Cloud Engineer | AWS | Terraform | Python | Security & Automation
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=CHARLES%20BUCHER&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Cloud%20Infrastructure%20Engineer%20%7C%20AWS%20Security%20Specialist&descAlignY=55&descSize=25" width="100%"/>
+</div>
+<div align="center">
+🔥 SELF-TAUGHT | PRODUCTION-FOCUSED | INFRASTRUCTURE OBSESSED
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=800&lines=Building+Real+Infrastructure%2C+Not+Tutorials;AWS+Security+%7C+Automation+%7C+Infrastructure+as+Code;From+Delivery+Driver+to+Cloud+Engineer;Targeting+Remote+Cloud+Roles+in+2025" alt="Typing Animation" />
+<br/>
+Show Image
+Show Image
+Show Image
+Show Image
+</div>
 
-🚀 About Me
-I’m a self-taught cloud engineer focused on designing, securing, and automating cloud infrastructure using AWS and Terraform. My work centers on building real-world, production-grade environments that reflect how modern enterprises operate — scalable, auditable, and secure by design.
+<div align="center">
+⚡ WHO I AM & WHY IT MATTERS
+</div>
+```ascii
+┌─────────────────────────────────────────────────────────────────┐
+│  FROM THIS                    →                    TO THIS       │
+│  🚗 Delivery Driver                    🚀 Cloud Engineer         │
+│  📦 Moving packages                    ☁️  Moving infrastructure │
+│  ⏰ Trading time for money             💻 Building scalable sys  │
+│  📚 No tech background                 🎯 Production-ready       │
+└─────────────────────────────────────────────────────────────────┘
+```
+THE REAL STORY:
 
-I specialize in cloud networking, automation workflows, and proactive monitoring systems. Every project in this portfolio represents a hands-on implementation of core AWS services with an emphasis on IaC, security, and reliability engineering.
+👨‍👩‍👧‍👦 Family man: Married 10+ years, 3 kids (11, 10, 1)
+💪 Self-taught: Zero bootcamp, zero CS degree, 100% hustle
+🎯 Current role: Part-time delivery driver while building cloud skills
+🔥 Mission: Break into remote cloud engineering through real projects
 
-🧠 Core Skills & Cloud Stack
-Cloud Architecture:
-Design and deployment of AWS multi-tier VPC environments with public/private subnet segmentation, NAT/IGW routing, load balancers, DNS, and high-availability configuration across multiple AZs.
+I'm not your typical candidate. I'm the guy who debugs infrastructure at 2 AM after putting kids to bed. The one who studies AWS docs between deliveries. The one who turned zero tech background into production-grade projects.
+Second-chance talent works harder. Period.
 
-Infrastructure as Code (IaC):
-Terraform module development, state management, reusable IaC templates, variable structuring, and controlled rollouts via GitHub Actions and remote state backends.
+<div align="center">
+🛠️ TECH STACK THAT PAYS THE BILLS
+</div>
+<div align="center">
+☁️ Cloud Platforms & Infrastructure
+Show Image
+Show Image
+Show Image
+Show Image
+🐳 Containers & Orchestration
+Show Image
+Show Image
+Show Image
+💻 Languages & Scripting
+Show Image
+Show Image
+Show Image
+Show Image
+🔐 Security & Monitoring
+Show Image
+Show Image
+Show Image
+Show Image
+🔄 CI/CD & Automation
+Show Image
+Show Image
+Show Image
+</div>
 
-Security Engineering:
-IAM least-privilege policies, encryption (KMS/TLS), GuardDuty threat simulation, automated firewall and security group verification, and compliance-aligned environment hardening.
+<div align="center">
+🎯 PROJECTS THAT PROVE I CAN BUILD
+Not tutorials. Not copy-paste. Real infrastructure that actually works.
+</div>
+<table>
+<tr>
+<td width="50%" valign="top">
+🔐 GuardDuty Threat Response System
+What it does:
+Automated threat detection + real-time incident response with Lambda-powered remediation workflows
+Why it matters:
+Shows I understand security at the infrastructure level, not just firewalls
+Tech:
+GuardDuty Lambda SNS EventBridge Python CloudWatch
+Show Image
+</td>
+<td width="50%" valign="top">
+📊 Enterprise CloudWatch Monitoring
+What it does:
+Production-grade monitoring with custom metrics, dashboards, automated alerts, and SLA tracking
+Why it matters:
+Infrastructure without observability is just expensive guessing
+Tech:
+CloudWatch SNS Lambda Python EventBridge Metrics
+Show Image
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+🏗️ Multi-Tier VPC Architecture
+What it does:
+Production VPC with public/private subnets, NAT gateways, proper routing, and security group management
+Why it matters:
+Network design is the foundation—mess this up and everything else fails
+Tech:
+VPC Terraform Subnets Route Tables NAT Security Groups
+Show Image
+</td>
+<td width="50%" valign="top">
+☁️ S3 + CloudFront Secure Hosting
+What it does:
+High-performance static site with global CDN, SSL/TLS, S3 encryption, and access logging
+Why it matters:
+Proves I can build fast, secure, cost-effective solutions—not just throw EC2 at everything
+Tech:
+S3 CloudFront Route 53 ACM Terraform WAF
+Show Image
+</td>
+</tr>
+</table>
 
-Automation & Scripting:
-AWS CLI automation, Bash scripting, parameterized deployments, and Python-based infrastructure validation.
+<div align="center">
+📈 GITHUB ACTIVITY & STATS
+</div>
+<div align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=charles-bucher&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charles-bucher&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=charles-bucher&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d9ff&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=charles-bucher&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d9ff&line=00d9ff&point=c9d1d9" />
+</div>
 
-Monitoring & Observability:
-CloudWatch dashboards, metric-driven alerts, SNS notifications, and log aggregation for proactive fault detection and response.
+<div align="center">
+🎓 CERTIFICATION ROADMAP
+</div>
+```diff
+COMPLETED
++ Nothing yet—but watch this space
+IN PROGRESS (Q4 2025)
+! AWS Certified Solutions Architect Associate
+! Building 15+ production-grade portfolio projects
+ON DECK (2026)
 
-Documentation & Architecture Visualization:
-Architecture diagrams, network topology blueprints, and end-to-end documentation for repeatable deployments.
+AWS Certified DevOps Engineer Professional
+Certified Kubernetes Administrator (CKA)
+HashiCorp Certified: Terraform Associate
+AWS Certified Security Specialty
 
-📂 Featured Projects
+
+---
+
+<div align="center">
+
+## 💼 WHAT MAKES ME DIFFERENT
+
+</div>
+
+<table>
+<tr>
+<th>🔥 THE GRIND</th>
+<th>🎯 THE PROOF</th>
+<th>💡 THE OUTCOME</th>
+</tr>
+<tr>
+<td>
+
+- Self-taught through AWS docs
+- Code at 2 AM after kids sleep
+- Study between delivery routes
+- Zero bootcamp, zero CS degree
+- Built everything from scratch
+
+</td>
+<td>
+
+- 4 production-grade projects (and counting)
+- Real infrastructure, not tutorials
+- Security-first architecture
+- IaC for everything
+- Active GitHub contributions
+
+</td>
+<td>
+
+- Hire-ready for cloud roles
+- Career transition success story
+- Hungry, coachable, driven
+- Non-traditional backgrounds = unique perspectives
+- Targeting remote cloud positions
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## 📊 CURRENT FOCUS & NEXT 90 DAYS
+
+</div>
+```yaml
+Week 1-4: AWS SAA Certification Sprint
+  - Practice exams daily
+  - Build 3-tier serverless app
+  - Document architecture decisions
+  - Network on LinkedIn (10 connections/day)
+
+Week 5-8: Kubernetes Deep Dive
+  - Deploy production K8s cluster
+  - Master Helm charts and operators
+  - Build CI/CD pipeline with ArgoCD
+  - Create custom monitoring stack
+
+Week 9-12: Advanced Infrastructure
+  - Multi-region disaster recovery
+  - Cost optimization automation
+  - Security hardening with Terraform
+  - Write technical blog posts
+
+Daily Commitments:
+  - 1+ GitHub commit
+  - 2 hours AWS study/building
+  - Document everything I learn
+  - Engage with cloud community
+
+<div align="center">
+🚀 WHY HIRE ME?
+</div>
+I bring what bootcamp grads can't:
+✅ Real-world problem solving - I've debugged more infrastructure issues at 2 AM than most have seen in labs
+✅ Self-starter mentality - Nobody taught me this. I learned by building and breaking things
+✅ Production mindset - Every project is built like it's going to prod tomorrow
+✅ Documentation discipline - If it's not documented, it doesn't exist
+✅ Hunger to prove myself - I'm not here for participation trophies. I'm here to build.
+My career transition proves I can:
+
+Learn complex technical skills independently
+Stay committed through adversity
+Balance competing priorities (family + learning + work)
+Ship real projects, not just talk about them
 
 
-🔸 https://github.com/charles-bucher/aws-multi-tier-vpc-architecture
-Complete Terraform simulation of a production-style 3-tier architecture with web, app, and database layers. Includes network isolation, firewall auditing, and monitoring pipelines.
+<div align="center">
+📫 LET'S CONNECT
+</div>
+<div align="center">
+Show Image
+Show Image
+Show Image
+Show Image
+<br/>
+💡 OPEN TO
+Remote Cloud Engineer Roles • DevOps Positions • AWS Infrastructure Jobs • Security-Focused Opportunities
+<br/>
+Show Image
+</div>
 
-🔸 https://github.com/charles-bucher/Proactive-monitoring-with-cloudwatch-sns
-Hands-on AWS monitoring lab showcasing proactive alerting using CloudWatch metrics and SNS. Features automation scripts, incident triggers, and scalable logging design.
-
-🔸 https://github.com/charles-bucher/s3-cloudfront-secure-static-site
-Enterprise-ready static website infrastructure using Amazon S3, CloudFront, and ACM for global content delivery, TLS security, and cost-optimized scalability.
-
-🔸 https://github.com/charles-bucher/guardduty-threat-simulation-response
-Terraform-driven lab that deploys GuardDuty, simulates AWS threat scenarios, and triggers automated remediation workflows.
-
-🔸 https://github.com/charles-bucher/charles-bucher.github.io
-Custom portfolio hosted on GitHub Pages highlighting hands-on cloud projects, automation design, and continuous learning in AWS and security.
-
-🛠️ Technical Toolbox
-Category	Tools & Technologies
-Cloud Platforms	AWS (EC2, S3, CloudFront, CloudWatch, VPC, IAM, SNS, Route 53, ACM, GuardDuty)
-Infrastructure as Code	Terraform (modules, state mgmt, multi-env deployments)
-Scripting	Python, Bash, PowerShell
-Networking	VPC design, subnet architecture, routing, NAT gateways, CDN optimization
-Security	IAM roles/policies, KMS, TLS, threat modeling, compliance automation
-Monitoring & DevOps	CloudWatch, SNS, log analysis, CI/CD with GitHub Actions
-Version Control	Git, GitHub, documentation and branch workflows
-📊 GitHub Activity
-Over 230+ contributions in the last year — focused on Terraform automation, AWS security simulation, and observability engineering.
-
-📫 Connect
-🌐 Portfolio: https://github.com/charles-bucher/charles-bucher.github.io
-🔗 LinkedIn: linkedin.com/in/charles-bucher-26598728b
-📧 Email: Available on LinkedIn
-
-🧱 Current Focus
-Building advanced cloud security automation
-
-Expanding multi-tier simulation labs
-
-Developing GitHub-based learning repos for new engineers
-
-📄 License
-MIT License — Free to use for educational and reference purposes
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer" width="100%"/>
+⚡ "From delivering packages to deploying infrastructure—anything is possible with code and commitment."
+</div>
