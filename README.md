@@ -29,7 +29,7 @@ Architecture diagrams, network topology blueprints, and end-to-end documentation
 🔸 https://github.com/charles-bucher/aws-multi-tier-vpc-architecture
 Complete Terraform simulation of a production-style 3-tier architecture with web, app, and database layers. Includes network isolation, firewall auditing, and monitoring pipelines.
 
-🔸 Proactive Monitoring with CloudWatch & SNS
+🔸 https://github.com/charles-bucher/Proactive-monitoring-with-cloudwatch-sns
 Hands-on AWS monitoring lab showcasing proactive alerting using CloudWatch metrics and SNS. Features automation scripts, incident triggers, and scalable logging design.
 
 🔸 S3 + CloudFront Secure Static Site
