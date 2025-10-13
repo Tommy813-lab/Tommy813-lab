@@ -27,11 +27,10 @@ THE REAL STORY:
 
 👨‍👩‍👧‍👦 Family man: Married 10+ years, 3 kids (11, 10, 1)
 💪 Self-taught: Zero bootcamp, zero CS degree, 100% hustle
-🎯 Current role: Part-time delivery driver while building cloud skills
+🎯 Current role: Delivery driver while building cloud skills
 🔥 Mission: Break into remote cloud engineering through real projects
 
 I'm not your typical candidate. I'm the guy who debugs infrastructure at 2 AM after putting kids to bed. The one who studies AWS docs between deliveries. The one who turned zero tech background into production-grade projects.
-Second-chance talent works harder. Period.
 
 <div align="center">
 🛠️ TECH STACK THAT PAYS THE BILLS
