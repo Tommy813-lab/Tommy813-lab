@@ -26,6 +26,8 @@ Documentation & Architecture Visualization:
 Architecture diagrams, network topology blueprints, and end-to-end documentation for repeatable deployments.
 
 📂 Featured Projects
+
+
 🔸 https://github.com/charles-bucher/aws-multi-tier-vpc-architecture
 Complete Terraform simulation of a production-style 3-tier architecture with web, app, and database layers. Includes network isolation, firewall auditing, and monitoring pipelines.
 
