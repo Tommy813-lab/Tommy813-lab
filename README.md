@@ -40,7 +40,7 @@ Enterprise-ready static website infrastructure using Amazon S3, CloudFront, and 
 🔸 https://github.com/charles-bucher/guardduty-threat-simulation-response
 Terraform-driven lab that deploys GuardDuty, simulates AWS threat scenarios, and triggers automated remediation workflows.
 
-🔸 Portfolio Site
+🔸 https://github.com/charles-bucher/charles-bucher.github.io
 Custom portfolio hosted on GitHub Pages highlighting hands-on cloud projects, automation design, and continuous learning in AWS and security.
 
 🛠️ Technical Toolbox
