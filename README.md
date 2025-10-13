@@ -34,7 +34,7 @@ Complete Terraform simulation of a production-style 3-tier architecture with web
 🔸 https://github.com/charles-bucher/Proactive-monitoring-with-cloudwatch-sns
 Hands-on AWS monitoring lab showcasing proactive alerting using CloudWatch metrics and SNS. Features automation scripts, incident triggers, and scalable logging design.
 
-🔸 S3 + CloudFront Secure Static Site
+🔸 https://github.com/charles-bucher/s3-cloudfront-secure-static-site
 Enterprise-ready static website infrastructure using Amazon S3, CloudFront, and ACM for global content delivery, TLS security, and cost-optimized scalability.
 
 🔸 https://github.com/charles-bucher/guardduty-threat-simulation-response
