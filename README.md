@@ -56,7 +56,7 @@ Version Control	Git, GitHub, documentation and branch workflows
 Over 230+ contributions in the last year — focused on Terraform automation, AWS security simulation, and observability engineering.
 
 📫 Connect
-🌐 Portfolio: charles-bucher.github.io
+🌐 Portfolio: https://github.com/charles-bucher/charles-bucher.github.io
 🔗 LinkedIn: linkedin.com/in/charles-bucher-26598728b
 📧 Email: Available on LinkedIn
 
@@ -68,8 +68,4 @@ Expanding multi-tier simulation labs
 Developing GitHub-based learning repos for new engineers
 
 📄 License
-MIT License — Free to use for educational and reference purposes.
-
-
-No file chosenNo file chosen
-ChatGPT can make m
+MIT License — Free to use for educational and reference purposes
