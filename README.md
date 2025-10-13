@@ -5,10 +5,6 @@
 🔥 SELF-TAUGHT | PRODUCTION-FOCUSED | INFRASTRUCTURE OBSESSED
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=800&lines=Building+Real+Infrastructure%2C+Not+Tutorials;AWS+Security+%7C+Automation+%7C+Infrastructure+as+Code;From+Delivery+Driver+to+Cloud+Engineer;Targeting+Remote+Cloud+Roles+in+2025" alt="Typing Animation" />
 <br/>
-Show Image
-Show Image
-Show Image
-Show Image
 </div>
 
 <div align="center">
@@ -37,28 +33,10 @@ I'm not your typical candidate. I'm the guy who debugs infrastructure at 2 AM af
 </div>
 <div align="center">
 ☁️ Cloud Platforms & Infrastructure
-Show Image
-Show Image
-Show Image
-Show Image
 🐳 Containers & Orchestration
-Show Image
-Show Image
-Show Image
 💻 Languages & Scripting
-Show Image
-Show Image
-Show Image
-Show Image
 🔐 Security & Monitoring
-Show Image
-Show Image
-Show Image
-Show Image
 🔄 CI/CD & Automation
-Show Image
-Show Image
-Show Image
 </div>
 
 <div align="center">
@@ -85,7 +63,6 @@ Why it matters:
 Infrastructure without observability is just expensive guessing
 Tech:
 CloudWatch SNS Lambda Python EventBridge Metrics
-Show Image
 </td>
 </tr>
 <tr>
@@ -237,15 +214,10 @@ Ship real projects, not just talk about them
 📫 LET'S CONNECT
 </div>
 <div align="center">
-Show Image
-Show Image
-Show Image
-Show Image
 <br/>
 💡 OPEN TO
 Remote Cloud Engineer Roles • DevOps Positions • AWS Infrastructure Jobs • Security-Focused Opportunities
 <br/>
-Show Image
 </div>
 
 <div align="center">
