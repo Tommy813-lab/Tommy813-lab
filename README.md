@@ -21,7 +21,7 @@
 ```
 THE REAL STORY:
 
-👨‍👩‍👧‍👦 Family man: Married 10+ years, 3 kids (11, 10, 1)
+👨‍👩‍👧‍👦 Family man: Married 10+ years, 3 kids 
 💪 Self-taught: Zero bootcamp, zero CS degree, 100% hustle
 🎯 Current role: Delivery driver while building cloud skills
 🔥 Mission: Break into remote cloud engineering through real projects
