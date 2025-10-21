@@ -2,3 +2,10 @@ logs/
 *.env
 *.pem
 external_files/awscliv2.zip
+.DS_Store
+*.log
+*.zip
+*.tmp
+*.bak
+node_modules/
+terraform.tfstate*
