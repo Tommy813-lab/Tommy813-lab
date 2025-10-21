@@ -1,3 +1,4 @@
 logs/
 *.env
 *.pem
+external_files/awscliv2.zip
