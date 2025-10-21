@@ -1,0 +1,4 @@
+
+/external_files/
+external_files/*
+.DS_Store
