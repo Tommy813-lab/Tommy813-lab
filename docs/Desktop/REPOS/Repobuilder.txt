@@ -1,0 +1,3 @@
+Set-ExecutionPolicy Bypass -Scope Process -Force
+cd "C:\Users\buche\docs\Desktop\REPOS"
+.\RepoRebuilder.ps1

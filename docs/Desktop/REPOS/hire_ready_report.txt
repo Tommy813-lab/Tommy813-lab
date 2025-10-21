@@ -1,0 +1,166 @@
+
+=== aws ===
+- Git: Repo has commits.
+- README: Issues found
+  - Project description missing.
+  - Installation instructions missing.
+  - Usage instructions missing.
+  - At least 1 screenshot(s) missing in README.md.
+  - Tech stack / skills missing.
+- File structure issues:
+  - .gitignore missing.
+  - LICENSE file missing (optional but recommended).
+- Lines of code per language:
+  - HTML: 2 lines
+  - Shell: 3 lines
+⚠️ Repo needs improvements before being hire-ready.
+
+=== aws-multi-tier-vpc-architecture ===
+- Git: Repo has commits.
+- README: Issues found
+  - Project description missing.
+  - Installation instructions missing.
+  - Usage instructions missing.
+  - Tech stack / skills missing.
+- File structure issues:
+  - LICENSE file missing (optional but recommended).
+  - Unnecessary folder: scripts\__pycache__
+  - Unnecessary file: scripts\__pycache__\firewall_test.cpython-313.pyc
+  - Unnecessary file: scripts\__pycache__\traffic_simulator.cpython-313.pyc
+- Lines of code per language:
+  - Shell: 83 lines
+  - Python: 2 lines
+⚠️ Repo needs improvements before being hire-ready.
+
+=== aws-techops-vpc-lab ===
+- Git: Repo has commits.
+- README: Issues found
+  - Project description missing.
+  - Installation instructions missing.
+  - Usage instructions missing.
+  - Tech stack / skills missing.
+- File structure issues:
+  - LICENSE file missing (optional but recommended).
+  - Unnecessary folder: scripts\__pycache__
+  - Unnecessary file: scripts\__pycache__\firewall_test.cpython-313.pyc
+  - Unnecessary file: scripts\__pycache__\traffic_simulator.cpython-313.pyc
+- Lines of code per language:
+  - Shell: 83 lines
+  - Python: 2 lines
+⚠️ Repo needs improvements before being hire-ready.
+
+=== charles-bucher ===
+- Git: Repo has commits.
+- README: Issues found
+  - Project description missing.
+  - Installation instructions missing.
+  - Usage instructions missing.
+  - At least 1 screenshot(s) missing in README.md.
+  - Tech stack / skills missing.
+- File structure issues:
+  - LICENSE file missing (optional but recommended).
+- Lines of code per language:
+  - HTML: 2 lines
+⚠️ Repo needs improvements before being hire-ready.
+
+=== charles-bucher.github.io ===
+- Git: Repo has commits.
+- README: Issues found
+  - Project description missing.
+  - Installation instructions missing.
+  - Usage instructions missing.
+  - Tech stack / skills missing.
+- File structure issues:
+  - LICENSE file missing (optional but recommended).
+- Lines of code per language:
+  - HTML: 253 lines
+  - Python: 167 lines
+  - Shell: 610 lines
+⚠️ Repo needs improvements before being hire-ready.
+
+=== CloudWatch-Sentinel ===
+- Git: Repo has commits.
+- README: Issues found
+  - Project description missing.
+  - Installation instructions missing.
+  - Usage instructions missing.
+  - Tech stack / skills missing.
+- File structure issues:
+  - LICENSE file missing (optional but recommended).
+- Lines of code per language:
+  - HTML: 2 lines
+⚠️ Repo needs improvements before being hire-ready.
+
+=== command scripts ===
+- Git: Repo has commits.
+- README: Issues found
+  - README.md is missing.
+- File structure issues:
+  - .gitignore missing.
+  - LICENSE file missing (optional but recommended).
+- Lines of code per language:
+  - Shell: 1155 lines
+  - Python: 402 lines
+⚠️ Repo needs improvements before being hire-ready.
+
+=== GuardDuty-Sentinel-Lab ===
+- Git: Repo has commits.
+- README: Issues found
+  - Project description missing.
+  - Installation instructions missing.
+  - Usage instructions missing.
+  - At least 1 screenshot(s) missing in README.md.
+  - Tech stack / skills missing.
+- File structure issues:
+  - .gitignore missing.
+  - LICENSE file missing (optional but recommended).
+- Lines of code per language:
+  - HTML: 2 lines
+  - Shell: 116 lines
+⚠️ Repo needs improvements before being hire-ready.
+
+=== it-support-automation-lab ===
+- Git: Repo has commits.
+- README: Issues found
+  - Project description missing.
+  - Installation instructions missing.
+  - Usage instructions missing.
+  - Tech stack / skills missing.
+- File structure issues:
+  - LICENSE file missing (optional but recommended).
+  - Unnecessary folder: scripts\python\__pycache__
+  - Unnecessary file: scripts\python\__pycache__\sample_script.cpython-313.pyc
+- Lines of code per language:
+  - HTML: 2 lines
+  - Shell: 8 lines
+  - Python: 0 lines
+⚠️ Repo needs improvements before being hire-ready.
+
+=== LambdaAPI-Lab ===
+- Git: Repo has commits.
+- README: Issues found
+  - Project description missing.
+  - Installation instructions missing.
+  - Usage instructions missing.
+  - Tech stack / skills missing.
+- File structure issues:
+  - LICENSE file missing (optional but recommended).
+- Lines of code per language:
+  - HTML: 2 lines
+  - JavaScript: 2 lines
+⚠️ Repo needs improvements before being hire-ready.
+
+=== Zero-Touch-Deployment ===
+- Git: Repo has commits.
+- README: Issues found
+  - Project description missing.
+  - Installation instructions missing.
+  - Usage instructions missing.
+  - At least 1 screenshot(s) missing in README.md.
+  - Tech stack / skills missing.
+- File structure issues:
+  - .gitignore missing.
+  - LICENSE file missing (optional but recommended).
+- Lines of code per language:
+  - HTML: 2 lines
+⚠️ Repo needs improvements before being hire-ready.

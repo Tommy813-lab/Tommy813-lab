@@ -1,0 +1,8 @@
+"RepoName","CompletenessPercent","MissingItems"
+"aws","100%",""
+"AWS-Serverless-API-CICD","100%",""
+"AWS_Monitoring_Observability","75%","Missing scripts folder"
+"AWS_MultiTier_VPC_CloudOps","100%",""
+"CloudOps-GuardDuty-Automation","100%",""
+"command scripts","50%","Git not initialized, Missing scripts folder"
+"Terraform-CI-CD-Automation","75%","Missing scripts folder"
