@@ -33,7 +33,7 @@ Project	What It Shows
 AWS_Monitoring_Observability
 	End-to-end AWS monitoring, alerting, and logging with CloudWatch, GuardDuty, and Terraform — full-stack visibility & automation.
 AWS-Serverless-API-CICD
-	Production-ready serverless API with Lambda, API Gateway, DynamoDB, and GitHub Actions CI/CD.
+	[REMOVED]-ready serverless API with Lambda, API Gateway, DynamoDB, and GitHub Actions CI/CD.
 CloudOps-GuardDuty-Automation
 	Automated threat detection and incident response using Terraform and native AWS security services.
 Terraform-CI-CD-Automation
@@ -82,7 +82,7 @@ AWS CloudOps, Terraform Automation, DevSecOps, AWS Infrastructure, Cloud Securit
 </td>
 <td>
 
-- 4 production-grade projects (and counting)
+- 4 [REMOVED]-grade projects (and counting)
 - Real infrastructure, not tutorials
 - Security-first architecture
 - IaC for everything
@@ -116,7 +116,7 @@ Week 1-4: AWS SAA Certification Sprint
   - Network on LinkedIn (10 connections/day)
 
 Week 5-8: Kubernetes Deep Dive
-  - Deploy production K8s cluster
+  - Deploy [REMOVED] K8s cluster
   - Master Helm charts and operators
   - Build CI/CD pipeline with ArgoCD
   - Create custom monitoring stack
@@ -139,7 +139,7 @@ Daily Commitments:
 I bring what bootcamp grads can't:
 ✅ Real-world problem solving - I've debugged more infrastructure issues at 2 AM than most have seen in labs
 ✅ Self-starter mentality - Nobody taught me this. I learned by building and breaking things
-✅ Production mindset - Every project is built like it's going to prod tomorrow
+✅ [REMOVED] mindset - Every project is built like it's going to prod tomorrow
 ✅ Documentation discipline - If it's not documented, it doesn't exist
 ✅ Hunger to prove myself - I'm not here for participation trophies. I'm here to build.
 My career transition proves I can:
@@ -161,7 +161,7 @@ Remote Cloud Engineer Roles • DevOps Positions • AWS Infrastructure Jobs •
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer" width="100%"/>
+<img src="[REMOVED]capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer" width="100%"/>
 ⚡ "From delivering packages to deploying infrastructure—anything is possible with code and commitment."
 </div>
 ## Lessons Learned
@@ -170,4 +170,13 @@ Remote Cloud Engineer Roles • DevOps Positions • AWS Infrastructure Jobs •
 - Test before pushing.
 - Keep your branches organized.
 - Continuous learning is key!
+
+
+> NOTE: This project was [REMOVED] temporarily for demonstration purposes. No live endpoints exist.
+
+
+> NOTE: This project was  temporarily for demonstration purposes. No live endpoints exist.
+
+
+NOTE: This project was deployed temporarily for demonstration purposes and is no longer live.
 
