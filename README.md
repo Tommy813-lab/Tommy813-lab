@@ -22,7 +22,7 @@ Project	What It Shows
 AWS_Monitoring_Observability
 	End-to-end AWS monitoring, alerting, and logging with CloudWatch, GuardDuty, and Terraform — full-stack visibility & automation.
 AWS-Serverless-API-CICD
-	production-ready serverless API with Lambda, API Gateway, DynamoDB, and GitHub Actions CI/CD.
+	productionproduction-ready serverless API with Lambda, API Gateway, DynamoDB, and GitHub Actions CI/CD.
 CloudOps-GuardDuty-Automation
 	Automated threat detection and incident response using Terraform and native AWS security services.
 Terraform-CI-CD-Automation
@@ -65,7 +65,7 @@ AWS CloudOps, Terraform Automation, DevSecOps, AWS Infrastructure, Cloud Securit
 </td>
 <td>
 
-- 4 production-grade projects (and counting)
+- 4 productionproduction-grade projects (and counting)
 - Real infrastructure, not tutorials
 - Security-first architecture
 - IaC for everything
@@ -74,7 +74,7 @@ AWS CloudOps, Terraform Automation, DevSecOps, AWS Infrastructure, Cloud Securit
 </td>
 <td>
 
-- Hireproduction-ready for cloud roles
+- Hireproductionproduction-ready for cloud roles
 - Career transition success story
 - Hungry, coachable, driven
 - Non-traditional backgrounds = unique perspectives
@@ -138,7 +138,7 @@ Ship real projects, not just talk about them
 <div align="center">
 <br/>
 💡 OPEN TO
-Remote Cloud Engineer Roles • DevOps Positions • AWS Infrastructure Jobs • SecurityPRODUCTION-FOCUSED Opportunities
+Remote Cloud Engineer Roles • DevOps Positions • AWS Infrastructure Jobs • SecurityPRODUCTIONPRODUCTION-FOCUSED Opportunities
 <br/>
 </div>
 
