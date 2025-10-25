@@ -22,7 +22,7 @@ Project	What It Shows
 AWS_Monitoring_Observability
 	End-to-end AWS monitoring, alerting, and logging with CloudWatch, GuardDuty, and Terraform — full-stack visibility & automation.
 AWS-Serverless-API-CICD
-	-ready serverless API with Lambda, API Gateway, DynamoDB, and GitHub Actions CI/CD.
+	production-ready serverless API with Lambda, API Gateway, DynamoDB, and GitHub Actions CI/CD.
 CloudOps-GuardDuty-Automation
 	Automated threat detection and incident response using Terraform and native AWS security services.
 Terraform-CI-CD-Automation
@@ -65,7 +65,7 @@ AWS CloudOps, Terraform Automation, DevSecOps, AWS Infrastructure, Cloud Securit
 </td>
 <td>
 
-- 4 -grade projects (and counting)
+- 4 production-grade projects (and counting)
 - Real infrastructure, not tutorials
 - Security-first architecture
 - IaC for everything
@@ -74,7 +74,7 @@ AWS CloudOps, Terraform Automation, DevSecOps, AWS Infrastructure, Cloud Securit
 </td>
 <td>
 
-- Hire-ready for cloud roles
+- Hireproduction-ready for cloud roles
 - Career transition success story
 - Hungry, coachable, driven
 - Non-traditional backgrounds = unique perspectives
@@ -138,7 +138,7 @@ Ship real projects, not just talk about them
 <div align="center">
 <br/>
 💡 OPEN TO
-Remote Cloud Engineer Roles • DevOps Positions • AWS Infrastructure Jobs • Security-Focused Opportunities
+Remote Cloud Engineer Roles • DevOps Positions • AWS Infrastructure Jobs • SecurityPRODUCTION-FOCUSED Opportunities
 <br/>
 </div>
 
@@ -153,11 +153,9 @@ Remote Cloud Engineer Roles • DevOps Positions • AWS Infrastructure Jobs •
 - Keep your branches organized.
 - Continuous learning is key!
 
-> NOTE: This project was  temporarily for demonstration purposes. No live endpoints exist.
+> 
 
-> NOTE: This project was  temporarily for demonstration purposes. No live endpoints exist.
-
-NOTE: This project was  temporarily for demonstration purposes and is no longer live.
+> 
 
 # charles-bucher
 
