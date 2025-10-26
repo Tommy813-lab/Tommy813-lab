@@ -3,7 +3,7 @@ Self-taught cloud engineer learning AWS, Terraform, and automation
 Tampa Bay Area, Florida | Open to Remote Work
 
 Who I Am
-I'm 40, married with three kids, and I work part-time delivering packages while teaching myself cloud infrastructure at night. I'm building a tech career from scratch—no degree, no bootcamp, just AWS documentation and GitHub.
+I'm 40, married with three kids, and I work Full-time delivering packages while teaching myself cloud infrastructure at night. I'm building a tech career from scratch—no degree, no bootcamp, just AWS documentation and GitHub.
 I'm not here to impress you with buzzwords. I'm here because I can learn fast, work hard, and build things that work.
 
 Current Situation
@@ -96,7 +96,7 @@ LinkedIn: Charles Bucher
 Email: Quietopscb@gmail.com
 
 Why I'm Doing This
-I work as a delivery driver while my wife handles chat support. We have three kids in Tasmpa,FL. I'm building this career so my kids see what's possible when you refuse to give up—even when life gives you every reason to quit.
+I work as a delivery driver while my wife handles chat support. We have three kids in Tampa, FL. I'm building this career so my kids see what's possible when you refuse to give up—even when life gives you every reason to quit.
 If you're hiring for entry-level cloud roles and you value determination over pedigree, let's talk.
 
 "I'm not the most qualified candidate. But I'll outwork everyone else in the interview pool."
