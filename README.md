@@ -1,215 +1,119 @@
-🚀 Charles Bucher – CloudOps & Automation Portfolio
+# Charles Bucher
 
-I’m a hands-on CloudOps Engineer who builds and breaks things until they run better.
-Everything here was learned by doing — late nights, trial, error, and a few AWS bills I won’t forget.
-No shortcuts. No templates. Just Terraform, AWS, and automation built the hard way — the right way.
-
-👨‍💻 About Me
-
-CloudOps Engineer | AWS | Terraform | DevSecOps | Automation
-
-Focused on secure, scalable, and observable infrastructure
-
-Passionate about systems that self-heal, self-report, and stay compliant
-
-Still learning every day — I don’t chase titles, I chase uptime and clean deployments
-
-🔗 LinkedIn
- • GitHub
-
-📂 Featured Projects
-Project	What It Shows
-AWS_Monitoring_Observability
-	End-to-end AWS monitoring, alerting, and logging with CloudWatch, GuardDuty, and Terraform — full-stack visibility & automation.
-AWS-Serverless-API-CICD
-	productionproduction-ready serverless API with Lambda, API Gateway, DynamoDB, and GitHub Actions CI/CD.
-CloudOps-GuardDuty-Automation
-	Automated threat detection and incident response using Terraform and native AWS security services.
-Terraform-CI-CD-Automation
-	Fully automated infrastructure pipeline with CodeBuild, CodePipeline, and Terraform — deploys 80% faster.
-AWS_MultiTier_VPC_CloudOps
-	Secure, scalable multi-tier VPC architecture demonstrating networking, IAM, and monitoring best practices.
-IT-Support-Automation-Lab
-	Hands-on PowerShell, Bash, and AWS scripting for automating IT workflows.
-🧭 What Drives Me
-
-I come from real work — not classrooms or theory.
-Every repo here marks another step in the journey from delivery driver to cloud engineer.
-I build things that stay up, scale right, and don’t surprise you at 3 AM.
-
-If you’re looking for someone hungry to grow, quick to learn, and proud of what they build — that’s me.
-
-📈 GitHub Stats
-<div align="center">
-
-</div>
-🔍 SEO Keywords
-
-AWS CloudOps, Terraform Automation, DevSecOps, AWS Infrastructure, Cloud Security, Observability, AWS CloudWatch, GuardDuty, CI/CD Pipeline, Infrastructure as Code, AWS Engineer Portfolio, Cloud Monitoring, Automation Engineer, AWS Lambda, Cloud Architecture, AWS DevOps
-
-<table>
-<tr>
-<th>🔥 THE GRIND</th>
-<th>🎯 THE PROOF</th>
-<th>💡 THE OUTCOME</th>
-</tr>
-<tr>
-<td>
-
-- Self-taught through AWS docs
-- Code at 2 AM after kids sleep
-- Study between delivery routes
-- Zero bootcamp, zero CS degree
-- Built everything from scratch
-
-</td>
-<td>
-
-- 4 productionproduction-grade projects (and counting)
-- Real infrastructure, not tutorials
-- Security-first architecture
-- IaC for everything
-- Active GitHub contributions
-
-</td>
-<td>
-
-- Hireproductionproduction-ready for cloud roles
-- Career transition success story
-- Hungry, coachable, driven
-- Non-traditional backgrounds = unique perspectives
-- Targeting remote cloud positions
-
-</td>
-</tr>
-</table>
+**Self-taught cloud engineer learning AWS, Terraform, and automation**  
+Tampa Bay Area | Open to Remote Work
 
 ---
 
-<div align="center">
+## Who I Am
 
-## 📊 CURRENT FOCUS & NEXT 90 DAYS
+I'm 40, married with three kids, and I work part-time delivering packages while teaching myself cloud infrastructure at night. I got my GED in prison in 2007, got out in 2008, and haven't looked back. Now I'm building a tech career from scratch—no degree, no bootcamp, just AWS documentation and GitHub.
 
-</div>
-```yaml
-Week 1-4: AWS SAA Certification Sprint
-  - Practice exams daily
-  - Build 3-tier serverless app
-  - Document architecture decisions
-  - Network on LinkedIn (10 connections/day)
-
-Week 5-8: Kubernetes Deep Dive
-  - Deploy  K8s cluster
-  - Master Helm charts and operators
-  - Build CI/CD pipeline with ArgoCD
-  - Create custom monitoring stack
-
-Week 9-12: Advanced Infrastructure
-  - Multi-region disaster recovery
-  - Cost optimization automation
-  - Security hardening with Terraform
-  - Write technical blog posts
-
-Daily Commitments:
-  - 1+ GitHub commit
-  - 2 hours AWS study/building
-  - Document everything I learn
-  - Engage with cloud community
-
-<div align="center">
-🚀 WHY HIRE ME?
-</div>
-I bring what bootcamp grads can't:
-✅ Real-world problem solving - I've debugged more infrastructure issues at 2 AM than most have seen in labs
-✅ Self-starter mentality - Nobody taught me this. I learned by building and breaking things
-✅  mindset - Every project is built like it's going to prod tomorrow
-✅ Documentation discipline - If it's not documented, it doesn't exist
-✅ Hunger to prove myself - I'm not here for participation trophies. I'm here to build.
-My career transition proves I can:
-
-Learn complex technical skills independently
-Stay committed through adversity
-Balance competing priorities (family + learning + work)
-Ship real projects, not just talk about them
-
-<div align="center">
-📫 LET'S CONNECT
-</div>
-<div align="center">
-<br/>
-💡 OPEN TO
-Remote Cloud Engineer Roles • DevOps Positions • AWS Infrastructure Jobs • SecurityPRODUCTIONPRODUCTION-FOCUSED Opportunities
-<br/>
-</div>
-
-<div align="center">
-<img src="capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer" width="100%"/>
-⚡ "From delivering packages to deploying infrastructure—anything is possible with code and commitment."
-</div>
-## Lessons Learned
-- Always commit small changes frequently.
-- Document your code clearly.
-- Test before pushing.
-- Keep your branches organized.
-- Continuous learning is key!
-
-> 
-
-> 
-
-# charles-bucher
-
-? **Project Overview**  
-This repository contains the charles-bucher project. All resources and scripts were built for learning, demonstration, and personal experimentation. Screenshots or examples may have been created, but this project is **not a live site**.
-
-**Disclaimer:**  
-> 
+I'm not here to impress you with buzzwords. I'm here because I can learn fast, work hard, and build things that work.
 
 ---
 
-## ?? Links
+## Current Situation
 
-- LinkedIn: [Charles Bucher](https://www.linkedin.com/in/charles-bucher85813)
-- Repository: [GitHub](https://github.com/charles-bucher/charles-bucher)
-
----
-
-## ??? Features / Highlights
-
-- 
-- 
-- 
+- **Day job**: Part-time delivery driver ($20k/year)
+- **Learning schedule**: 2-3 hours/night after kids sleep (11pm-2am)
+- **Goal**: Land an entry-level cloud/DevOps role ($50-70k) within 6 months
+- **Background**: Felon (2003-2008). Clean record since release.
+- **Why I'm different**: I don't quit. I've been coding every night for months while working and raising three kids. If I can do this, I can handle production systems.
 
 ---
 
-## ??? Tech Stack
+## What I'm Building
 
-- 
-- 
-- 
+### AWS Multi-Tier VPC Architecture
+**What it is**: Secure 3-tier network setup using Terraform  
+**What I learned**: VPC design, subnet routing, security groups, NAT gateways  
+**Challenges**: Spent 2 weeks debugging routing tables. Finally got it working.  
+[View Project](#)
 
----
+### AWS Monitoring & Logging Stack
+**What it is**: CloudWatch alerts + S3 log aggregation  
+**What I learned**: Metric filters, SNS notifications, IAM policies for logging  
+**Still working on**: GuardDuty integration (having issues with Terraform state)  
+[View Project](#)
 
-## ?? Skills Demonstrated
-
-- 
-- 
-- 
-
----
-
-## ?? Usage
-
-1. Clone the repository:
-\\\ash
-git clone https://github.com/charles-bucher/charles-bucher.git
-\\\
-2. Follow instructions in the code or scripts to test locally.
+### Serverless API with CI/CD
+**What it is**: Lambda + API Gateway + DynamoDB with automated deployments  
+**What I learned**: GitHub Actions, Lambda permissions, API Gateway configurations  
+**Reality**: First deployment took 3 days. Now I can deploy in 10 minutes.  
+[View Project](#)
 
 ---
 
-## ?? Notes
+## Skills I'm Building
 
-- Educational/demo purposes only.  
-- Screenshots exist to show functionality or output.  
-- No sensitive credentials or live endpoints are included.
+**Cloud & Infrastructure**
+- AWS (EC2, VPC, S3, CloudWatch, Lambda, IAM)
+- Terraform (still learning state management)
+- Basic networking (subnets, routing, security groups)
+
+**Automation & Scripting**
+- Bash scripting
+- PowerShell basics
+- GitHub Actions
+- Python for AWS automation
+
+**Currently Learning**
+- Kubernetes (started last week)
+- AWS Solutions Architect Associate exam prep
+- Cost optimization strategies
+
+---
+
+## Certifications
+
+- AWS Cloud Practitioner (studying now, exam scheduled next month)
+- AWS Solutions Architect Associate (target: 3 months)
+
+---
+
+## What I'm Looking For
+
+**Entry-level roles in:**
+- Cloud Support Engineer
+- Junior DevOps Engineer  
+- AWS Operations
+- Technical Support (cloud-focused)
+
+**What I bring:**
+- Ability to learn complex topics independently
+- Strong documentation habits (learned the hard way)
+- Comfortable with ambiguity and troubleshooting
+- 10+ years of clean record post-incarceration
+- Proven commitment (working full-time + family + learning every night)
+
+**What I need:**
+- Company that hires based on skills, not background checks
+- Remote work (Tampa Bay area, Florida)
+- Team that values hustle and growth mindset
+
+---
+
+## My Commits Tell the Story
+
+I commit small changes daily because I learned that big commits hide where things break. Check my contribution graph—it's steady because I show up every night, even when I'm tired.
+
+---
+
+## Let's Connect
+
+- **GitHub**: [charles-bucher](https://github.com/charles-bucher)
+- **LinkedIn**: [Charles Bucher](https://linkedin.com/in/charles-bucher)
+- **Email**: [Quietopscb@gmail.com]
+
+---
+
+## Why I'm Doing This
+
+I make $20k/year delivering packages. My wife makes $33k in chat support. We have three kids and live paycheck to paycheck in Pinellas Park. I'm building this career so my kids see what's possible when you refuse to give up—even when life gives you every reason to quit.
+
+If you're hiring for entry-level cloud roles and you value determination over pedigree, let's talk.
+
+---
+
+*"I'm not the most qualified candidate. But I'll outwork everyone else in the interview pool."*
