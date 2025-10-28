@@ -7,9 +7,9 @@
 
 ## Who I Am
 
-I'm 40, married with three kids, and I work full-time delivering packages while teaching myself cloud infrastructure at night. I'm building a tech career from scratch—no degree, no bootcamp, just AWS documentation and GitHub.
-
-I'm not here to impress you with buzzwords. I'm here because I can learn fast, work hard, and build things that work.
+I'm a self-taught cloud engineer based in Tampa, FL. I work full-time delivering packages while building secure, automated AWS systems at night. No degree. No bootcamp. Just documentation, GitHub, and grit.
+I’ve built multi-tier VPCs, automated GuardDuty responses, and monitoring dashboards I’d trust in production. Every repo reflects late-night learning and real-world troubleshooting.
+.
 
 ---
 
