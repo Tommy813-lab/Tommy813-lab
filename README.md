@@ -15,10 +15,13 @@ I’ve built multi-tier VPCs, automated GuardDuty responses, and monitoring dash
 
 ## Current Situation
 
-**Day job**: Full-time delivery driver  
-**Learning schedule**: 2-3 hours/night after kids sleep (11pm-2am)  
-**Goal**: Land an entry-level cloud/DevOps role within 6 months  
-**Why I'm different**: I don't quit. I've been coding every night for months while working and raising three kids. If I can do this, I can handle production systems.
+**I learn cloud infrastructure 2–3 hours every night after my kids sleep (11pm–2am).
+I’ve committed code daily for months while working full-time and raising three kids.
+If I can do this, I can handle production systems.
+
+
+
+
 
 ---
 
@@ -55,21 +58,16 @@ I’ve built multi-tier VPCs, automated GuardDuty responses, and monitoring dash
 
 ## Skills I'm Building
 
-**Cloud & Infrastructure**
-- AWS (EC2, VPC, S3, CloudWatch, Lambda, IAM)
-- Terraform (still learning state management)
-- Basic networking (subnets, routing, security groups)
 
-**Automation & Scripting**
-- Bash scripting
-- PowerShell basics
-- GitHub Actions
-- Python for AWS automation
+|  |  | 
+|  |  | 
+|  |  | 
+|  |  | 
 
-**Currently Learning**
-- Kubernetes (started last week)
-- AWS Solutions Architect Associate exam prep
-- Cost optimization strategies
+
+
+
+
 
 ---
 
