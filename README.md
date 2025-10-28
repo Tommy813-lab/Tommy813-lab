@@ -1,7 +1,7 @@
 # Charles Bucher
 
-**Self-taught cloud engineer learning AWS, Terraform, and automation**  
-Tampa Bay Area, Florida | Open to Remote Work
+**Cloud Support Engineer  AWS  Terraform  Python  Open to Remote Roles
+
 
 ---
 
