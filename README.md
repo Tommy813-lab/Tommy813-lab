@@ -58,15 +58,15 @@ If I can do this, I can handle production systems.
 
 ## Skills I'm Building
 
+Cloud & Infra
+AWS (EC2, VPC, S3, CloudWatch, Lambda, IAM)
+Terraform (IaC, state mgmt in progress)
+Basic networking (subnets, routing)
 
-|  |  | 
-|  |  | 
-|  |  | 
-|  |  | 
-
-
-
-
+Automation & Scripting
+Bash, PowerShell, Python
+GitHub Actions
+Cloud automation scripts
 
 
 ---
